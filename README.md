@@ -1,5 +1,5 @@
 # Baseball Hit-Trax
-Made for our AP CS final project with @monpon and @coolmath2018
+Project with @monpon and @Jus
 
 Three part project: 
 1. Using computer vision, track a baseball's location and feed its coordinates / size to another file
